@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Pritam Mazumder, a recent graduate with a keen interest in building innovative and user-friendly Android applications using Kotlin.<br><br>🌟 Skills:<br><br>🔹Proficient in Kotlin for Android development<br>🔹Strong understanding of Object-Oriented Programming (OOP) principles<br>🔹Familiar with Android Studio and the Android SDK<br>🔹Knowledgeable in UI/UX design and Material Design guidelines<br>🔹Eager to learn and adapt to new technologies<br><br>
+👋 Hello there! I'm Pritam Mazumder, a recent post-graduate with a keen interest in building innovative and user-friendly Android applications using Kotlin.<br><br>🌟 Skills:<br><br>🔹Proficient in Kotlin for Android development<br>🔹Strong understanding of Object-Oriented Programming (OOP) principles<br>🔹Familiar with Android Studio and the Android SDK<br>🔹Knowledgeable in UI/UX design and Material Design guidelines<br>🔹Eager to learn and adapt to new technologies<br><br>
 
 
 ## 🌐 Socials:
